@@ -1,7 +1,7 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "Week 13 homework to make a compatibility-base \"Friend Finder\" app utilizing Node and Express Servers",
+  "description": "Week 13 homework to make a compatibility-based \"Friend Finder\" app utilizing Node and Express Servers",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
